@@ -1,0 +1,40 @@
+body {
+    background-color: #dfcdc3;
+}
+
+.links {
+    text-align: center;
+    font-size: 30px;
+    padding: 0;
+}
+
+.title {
+    text-align: center;
+    background-color: lightgrey;
+}
+
+.heading {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.ingredients {
+    text-align: center;
+    padding: 0;
+}
+
+.steps {
+    text-align: center;
+    list-style-position: inside;
+    padding: 0;
+}
